@@ -13,6 +13,7 @@ AGPLv3 for all code not owned by other authors. Independent development will be 
 
 # Reference
 https://www.arrl.org/files/file/Regulatory/March%208,%202018.pdf
+
  '(c) No station may transmit third party communications while being automatically controlled except a 
 station transmitting a RTTY or data emission.'
 
