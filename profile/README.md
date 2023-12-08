@@ -10,3 +10,9 @@ All compilable to just one app or any other apps and with support for the hardwa
 
 AGPLv3 for all code not owned by other authors. Independent development will be done if necessary to minimize non-AGPLv3 code. NO relicensing, never, not ever.
 
+
+# Reference
+https://www.arrl.org/files/file/Regulatory/March%208,%202018.pdf
+ '(c) No station may transmit third party communications while being automatically controlled except a 
+station transmitting a RTTY or data emission.'
+
