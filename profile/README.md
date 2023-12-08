@@ -6,7 +6,7 @@ The major advantage of such direct one-to-many communication, is the absence of 
 
 The major advantage of an absence of targeted advertising, is the drastically reduced attack surface for both cybersecurity integrity exploits, and for bad management following up.
 
-ie. You don't have a poorly managed account to get locked out of with zero customer service, you have a government issued amateur radio license, and you're innocent until proven guilty in court.
+ie. You don't have a poorly managed account to get locked out of with zero customer service, you have an ISP and a government issued amateur radio license - you're more or less innocent until proven guilty in court.
 
 # Design
 Predominantly written in Rust, mixing open-source code for things like email, chat, PIV/OpenGPG hardware/YubiKey transaction authentication, official transaction revocation/repudiation, fast decentralized internet, bittorrent video streaming, (non-profit reputation, reviews, storage, synchronization, retransmission) blockchain, professionally assisted browsing, radio positioning, network/radio collision backoff, software disciplined FSK digital radio, and amateur radio. 
