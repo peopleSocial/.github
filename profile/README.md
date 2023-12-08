@@ -7,7 +7,7 @@ Predominantly written in Rust, mixing open-source code for things like email, ch
 
 All compilable to just one app or any other apps and with support for the hardware - YubiKey, stateless nonprogrammable discrete logic gate firewall, optical data diode, powerful radio transmitters, direct conversion receivers.
 
-
+# License
 AGPLv3 for all code not owned by other authors. Independent development will be done if necessary to minimize non-AGPLv3 code. NO relicensing, never, not ever.
 
 
