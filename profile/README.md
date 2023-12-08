@@ -5,5 +5,5 @@ Instead of a social network, just the code for a common language to speak into t
 Predominantly written in Rust, mixing open-source code for things like email, chat, authentication, fast decentralized internet, bittorrent, (non-profit storage, synchronization, retransmission) blockchain, professionally assisted browsing, digital radio, and amateur radio. 
 
 
-AGPLv3 for all code not owned by other authors. Independent development will be done if necessary to minimize non-AGPLv3 code. NO relicensing.
+AGPLv3 for all code not owned by other authors. Independent development will be done if necessary to minimize non-AGPLv3 code. NO relicensing, never, not ever.
 
