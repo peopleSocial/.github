@@ -1,12 +1,21 @@
 People just talking to people. Who would invent that?
 
-Instead of a social network, just the code for a common language (ie. bittorrent protocol) to speak into the publicly shared internet and radio space around the globe.
+An interactive network connection has three useful and fun purposes:
+1) Broadcasting to share a resource.
+2) Uploading a resource on request.
+3) Uploading a resource elsewhere.
 
-The major advantage of such direct one-to-many communication, is the absence of targeted advertising.
+Realize very carefully downloading is NOT on that list. Yet, the process of uploading has perversely been dominated by downloading, to the point such is the normal method of editing Wikipedia articles, pushing open source code. Exchanging real time chat messages in particular is done this same way, by downloading a website which download rather than uploads a connection to a store and forwarddatabase.
 
-The major advantage of an absence of targeted advertising, is the drastically reduced attack surface for both cybersecurity integrity exploits, and for bad management following up.
+As most content and software is increasingly user generated, it is strange that the sharing and monetization is done by a few corporations which theirselves also MUST decentralize the content. Worse, downloading by uploading involves the open security hole of JavaScript client side code.
 
-ie. You don't have a poorly managed account to get locked out of with zero customer service, you have an ISP and a government issued amateur radio license - you're more or less innocent until proven guilty in court.
+
+Perversely yet entirely predictably, the harms of - spread of malware, misappropriation of intellectual property, declining cultural richness - have been made far worse by the absence of the basic shared database which peer-to-peer file sharing really amounts to.
+
+Internet users are by and large mature enough to create, consume, monetize, and moderate their own resources.
+
+Yet the internet is structured in a way that is neither efficient, usable, secure, nor moderated.
+
 
 # Documentation
 Anyone who begins reading a large static document has their own questions. To begin using the service, no one should have to read a manual.
@@ -67,5 +76,10 @@ https://en.wikipedia.org/wiki/ActivityPub
 
 
 https://www.youtube.com/watch?v=mrGfahzt-4Q
+
+
+https://en.wikipedia.org/wiki/Usenet
+
+
 
 
