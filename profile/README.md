@@ -17,7 +17,9 @@ SHOW, DON'T TELL, is ESPECIALLY IMPORTANT for explaining to small merchants, non
 
 # Security
 
-Of Confidentiality, Integrity, and Availability, emphasis must be first on integrity (YubiKey authentication), as otherwise users cannot reestablish communication after, currently inevitable, malware incidents. Availability is the next issue, which pre-singularity can only be addressed by simplifying human intervention and stateless nonprogrammable discrete logic gate firewalls.
+Of Confidentiality, Integrity, and Availability, emphasis must be first on integrity (YubiKey authentication), as otherwise users cannot reestablish communication after, currently inevitable, malware incidents. Availability is the next issue, which pre-singularity can only be addressed by simplifying human intervention.
+
+Simplifying human intervention (against malware intrusion and persistence) is best achieved by simplifiying code and maintenance functions as much as possible, and such specialized hardware as stateless nonprogrammable discrete logic gate firewalls.
 
 # Functionality
 Code here does not seek to replace other software functionality, but rather mostly ONLY to unify the interface as well as improve efficiency and security.
