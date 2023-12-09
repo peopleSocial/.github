@@ -17,6 +17,11 @@ Internet users are by and large mature enough to create, consume, monetize, and 
 Yet the internet is structured in a way that is neither efficient, usable, secure, nor moderated.
 
 
+# New Functionality
+
+Little to none, but efficient for complete workflows. Open-source basically does everything already - but in clunky pieces.
+
+
 # Documentation
 Anyone who begins reading a large static document has their own questions. To begin using the service, no one should have to read a manual.
 
@@ -30,8 +35,6 @@ Of Confidentiality, Integrity, and Availability, emphasis must be first on integ
 
 Simplifying human intervention (against malware intrusion and persistence) is best achieved by simplifiying code and maintenance functions as much as possible, and such specialized hardware as stateless nonprogrammable discrete logic gate firewalls.
 
-# Functionality
-Code here does not seek to replace other software functionality, but rather mostly ONLY to unify the interface as well as improve efficiency and security.
 
 # Interoperability and Contribution
 Mastadon, Fediverse, ActivityPub, seem interesting.
@@ -51,6 +54,8 @@ Paid support in such a system would take the form of independent software mainte
 
 
 All compilable to just one app or any other apps and with support for the hardware - YubiKey, stateless nonprogrammable discrete logic gate firewall, optical data diode, powerful radio transmitters, direct conversion receivers.
+
+Video and picture streams will be available from the CLI as reportable, filtered, non-predictable CSPRNG dithered video encoder outputs.
 
 Performance (ie. Integrity and Availability) and interoperability are critical for usability. Thus, it is strongly encouraged to transmit data plainly for one-to-many synchronization of simple messages, and all authentication will use plaintext headers and forward error correction not necessitating any search for decryptable symbols.
 
