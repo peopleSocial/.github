@@ -27,6 +27,10 @@ Code here does not seek to replace other software functionality, but rather most
 # Interoperability and Contribution
 Mastadon, Fediverse, ActivityPub, seem interesting.
 
+EMail is rather long established, user@PersonalComputer.com .
+
+DARK MODE WILL BE PREFERRED. Light mode for messaging will NOT be the best supported option, as a matter of health for anyone with rather common sleep disruption issues.
+
 # Design
 Predominantly written in Rust, mixing open-source code for things like email, chat, PIV/OpenGPG hardware/YubiKey transaction authentication, official transaction revocation/repudiation, fast decentralized internet, bittorrent video streaming, (non-profit reputation, reviews, storage, synchronization, retransmission) blockchain, professionally assisted browsing, radio positioning, network/radio collision backoff, software disciplined FSK digital radio, and amateur radio.
 
@@ -60,6 +64,6 @@ https://en.wikipedia.org/wiki/Mastodon_(social_network)
 https://en.wikipedia.org/wiki/ActivityPub
 
 
-
+https://www.youtube.com/watch?v=mrGfahzt-4Q
 
 
