@@ -37,7 +37,7 @@ Paid support in such a system would take the form of independent software mainte
 
 All compilable to just one app or any other apps and with support for the hardware - YubiKey, stateless nonprogrammable discrete logic gate firewall, optical data diode, powerful radio transmitters, direct conversion receivers.
 
-Performance (ie. Integrity and Availability) and interoperability are critical for usability. Thus, data will be transmitted plainly for one-to-many synchronization, and all authentication will use plaintext headers and forward error correction not necessitating any search for decryptable symbols.
+Performance (ie. Integrity and Availability) and interoperability are critical for usability. Thus, it is strongly encouraged to transmit data plainly for one-to-many synchronization of simple messages, and all authentication will use plaintext headers and forward error correction not necessitating any search for decryptable symbols.
 
 # License
 AGPLv3 for all code not owned by other authors. Independent development will be done if necessary to minimize non-AGPLv3 code. NO relicensing, never, not ever.
