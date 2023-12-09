@@ -13,10 +13,13 @@ Anyone who begins reading a large static document has their own questions. To be
 
 Instead, users should be shown the value of a new open-source app, by other users, and by fine tuned generative AI actually answering their questions without exhaustive search.
 
+SHOW, DON'T TELL, is ESPECIALLY IMPORTANT for explaining to small merchants, non-profits with fundraisers, and persons with friends, functionality that requires new ways to transfer money (ie. conversion of USD to cryptocurrency), new tools to keep money safe (ie. hardware wallets), new ways to monetize (ie. increasing download bandwidth after cryptocurrency payment), and may also require a different approach with new services (ie. paid assisted browsing) to quickly communicate with friends not yet migrated to newer technology (ie. still using a social network intermediary).
+
 
 # Functionality
 Code here does not seek to replace other software functionality, but rather mostly ONLY to unify the interface and improve the efficiency.
 
+# Interoperability and Contribution
 Mastadon, Fediverse, seem interesting.
 
 # Design
