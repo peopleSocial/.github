@@ -8,6 +8,17 @@ The major advantage of an absence of targeted advertising, is the drastically re
 
 ie. You don't have a poorly managed account to get locked out of with zero customer service, you have an ISP and a government issued amateur radio license - you're more or less innocent until proven guilty in court.
 
+# Documentation
+Anyone who begins reading a large static document has their own questions. To begin using the service, no one should have to read a manual.
+
+Instead, users should be shown the value of a new open-source app, by other users, and by fine tuned generative AI actually answering their questions without exhaustive search.
+
+
+# Functionality
+Code here does not seek to replace other software functionality, but rather mostly ONLY to unify the interface and improve the efficiency.
+
+Mastadon, Fediverse, seem interesting.
+
 # Design
 Predominantly written in Rust, mixing open-source code for things like email, chat, PIV/OpenGPG hardware/YubiKey transaction authentication, official transaction revocation/repudiation, fast decentralized internet, bittorrent video streaming, (non-profit reputation, reviews, storage, synchronization, retransmission) blockchain, professionally assisted browsing, radio positioning, network/radio collision backoff, software disciplined FSK digital radio, and amateur radio.
 
@@ -31,5 +42,16 @@ https://www.arrl.org/files/file/Regulatory/March%208,%202018.pdf
 station transmitting a RTTY or data emission.'
 
 https://www.wired.com/story/why-dont-we-just-ban-targeted-advertising/
+
+
+https://en.wikipedia.org/wiki/Fediverse
+
+https://en.wikipedia.org/wiki/Mastodon_(social_network)
+
+
+
+
+
+
 
 
