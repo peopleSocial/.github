@@ -15,12 +15,15 @@ Instead, users should be shown the value of a new open-source app, by other user
 
 SHOW, DON'T TELL, is ESPECIALLY IMPORTANT for explaining to small merchants, non-profits with fundraisers, and persons with friends, functionality that requires new ways to transfer money (ie. conversion of USD to cryptocurrency), new tools to keep money safe (ie. hardware wallets), new ways to monetize (ie. increasing download bandwidth after cryptocurrency payment), and may also require a different approach with new services (ie. paid assisted browsing) to quickly communicate with friends not yet migrated to newer technology (ie. still using a social network intermediary).
 
+# Security
+
+Of Confidentiality, Integrity, and Availability, emphasis must be first on integrity (YubiKey authentication), as otherwise users cannot reestablish communication after, currently inevitable, malware incidents. Availability is the next issue, which pre-singularity can only be addressed by simplifying human intervention and stateless nonprogrammable discrete logic gate firewalls.
 
 # Functionality
-Code here does not seek to replace other software functionality, but rather mostly ONLY to unify the interface and improve the efficiency.
+Code here does not seek to replace other software functionality, but rather mostly ONLY to unify the interface as well as improve efficiency and security.
 
 # Interoperability and Contribution
-Mastadon, Fediverse, seem interesting.
+Mastadon, Fediverse, ActivityPub, seem interesting.
 
 # Design
 Predominantly written in Rust, mixing open-source code for things like email, chat, PIV/OpenGPG hardware/YubiKey transaction authentication, official transaction revocation/repudiation, fast decentralized internet, bittorrent video streaming, (non-profit reputation, reviews, storage, synchronization, retransmission) blockchain, professionally assisted browsing, radio positioning, network/radio collision backoff, software disciplined FSK digital radio, and amateur radio.
@@ -52,7 +55,7 @@ https://en.wikipedia.org/wiki/Fediverse
 https://en.wikipedia.org/wiki/Mastodon_(social_network)
 
 
-
+https://en.wikipedia.org/wiki/ActivityPub
 
 
 
