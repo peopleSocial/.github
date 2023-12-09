@@ -46,18 +46,65 @@ REAL TIME collaborative text, video, etc, editing WILL BE A HIGH PRIORITY .
 DARK MODE WILL BE PREFERRED. Light mode for messaging will NOT be the best supported option, as a matter of health for anyone with rather common sleep disruption issues.
 
 # Design
-Predominantly written in Rust, mixing open-source code for things like email, chat, PIV/OpenGPG hardware/YubiKey transaction authentication, official transaction revocation/repudiation, fast decentralized internet, bittorrent video streaming, (non-profit reputation, reviews, storage, synchronization, retransmission) blockchain, professionally assisted browsing, radio positioning, network/radio collision backoff, software disciplined FSK digital radio, and amateur radio.
 
-Generative AI is also used as a basic client-side yet effective mechanism for users to promote which 'one-to-everyone' threads they want to see in their feed, in addition to users optionally selecting replies to their own 'one-to-everyone' messages.
+*) Rust
+*) Mixes existing open source code.
+
+*) Fast IPv4/IPv6 blocked port upload by download punching (NOT just NAT).
+
+*) Sharded Forgetful Blockchain Tested Peers List
+*) Distribution of Tested Blockchain Peers List through Peers
+
+*) Peer Discovery by Amateur Radio
+*) Peer Discovery by Bluetooth, NFC, QR Code
+*) Announcement of Tested Peer by WiFi SSID, Acoustic Signaling, Power Supply QRSS
+*) Reception of Tested Peer by Stray Rectification
+
+*) Sub-9kHz Band Reception of Tested Peers
+
+(note: peer discovery from website at static domain is explicitly NOT supported mostly due to expected poor performance for due to expected inevitable underfunding and subsequent intermediary monetization abuse...)
+(any peer reception of slow means - ie. Sub-9kHz Band - will include 50% specially marked high bandwidth peers and by default will first be used to obtain more complete shards)
+(all extraordinary shards will include a blockchain signature corresponding to a shard including at least that shard)
+
+*) Feed with Threads and Replies.
+*) EMail.
+*) Chat (through file sharing, possibly refined or scrutinized ActivityPub, but strictly peer-to-peer).
+*) PIV/OpenPGP hardware/Yubikey transaction authentication (especially usability improvements).
+*) Offical transaction/repudiation (ie. officially disowning occasional messages signed by YubiKey prompts enticed by malware).
+
+*) Feed filtering by sriptable fine tuning of Generative AI.
+
+*) EMail/Chat messages entered into FileSharingEquivalentDB asymmetrically encrypt both sender and messages.
+
+*) Chunk/BitTorrent streaming.
+*) Live streaming.
+
+(domain name servers for any communication, storage, etc, purpose, EXPLICITLY forbidden)
+
+*) Traditional browser compatibility through Web Clients .
+
+*) Professionally Assisted Browsing
+
+*) Vector and radio positioning addressing for point-to-point radio establishment, finding, messaging.
+
+*) Separate Sharded Blockchain Chunk List
+*) Separate Sharded Blockchain Forgetful Storage List
+
+*) Digital Amateur Radio Synchronization of Chunk and Storage Blockchain Shards
+*) Network/Radio Collision Backoff
+*) Zero-Voltage-Switching Radio Transmitter
+*) Direct Conversion Receiver
+
+*) App support for YubiKey, stateless nonprogrammable discrete logic gate firewall, optical data diode, powerful switching radio transmitters (eg. audio modulation NOT needing linear amplification), direct conversion receivers.
 
 Paid support in such a system would take the form of independent software maintenance developers, with any use of generative AI or other non-human support as a fairly competing alternative or a programming code assistant (ie. GitHub copilot), NOT a replacement. Only the users have an incentive to marginalize their own support costs.
 
 
-All compilable to just one app or any other apps and with support for the hardware - YubiKey, stateless nonprogrammable discrete logic gate firewall, optical data diode, powerful radio transmitters, direct conversion receivers.
+All compilable to just one unified app or any other apps.
 
 Video and picture streams will be available from the CLI as reportable, filtered, non-predictable CSPRNG dithered video encoder outputs.
 
-Performance (ie. Integrity and Availability) and interoperability are critical for usability. Thus, it is strongly encouraged to transmit data plainly for one-to-many synchronization of simple messages, and all authentication will use plaintext headers and forward error correction not necessitating any search for decryptable symbols.
+Performance (ie. Integrity and Availability) and interoperability are critical for usability. Thus, it is strongly encouraged when possible (eg. for feed, livestream, etc) to transmit data plainly for one-to-many synchronization of simple messages, and all authentication will use plaintext headers and forward error correction not necessitating any search for decryptable symbols. Thus, while a Web Client may use HTTPS, and HTTPS may be used as a transport protocol, unencrypted data may be transferred.
 
 # License
 AGPLv3 for all code not owned by other authors. Independent development will be done if necessary to minimize non-AGPLv3 code. NO relicensing, never, not ever.
