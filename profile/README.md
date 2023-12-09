@@ -29,6 +29,8 @@ Mastadon, Fediverse, ActivityPub, seem interesting.
 
 EMail is rather long established, user@PersonalComputer.com .
 
+REAL TIME collaborative text, video, etc, editing WILL BE A HIGH PRIORITY .
+
 DARK MODE WILL BE PREFERRED. Light mode for messaging will NOT be the best supported option, as a matter of health for anyone with rather common sleep disruption issues.
 
 # Design
