@@ -13,6 +13,8 @@ Predominantly written in Rust, mixing open-source code for things like email, ch
 
 Generative AI is also used as a basic client-side yet effective mechanism for users to promote which 'one-to-everyone' threads they want to see in their feed, in addition to users optionally selecting replies to their own 'one-to-everyone' messages.
 
+Paid support in such a system would take the form of independent software maintenance developers, with any use of generative AI or other non-human support as a fairly competing alternative or a programming code assistant (ie. GitHub copilot), NOT a replacement. Only the users have an incentive to marginalize their own support costs.
+
 
 All compilable to just one app or any other apps and with support for the hardware - YubiKey, stateless nonprogrammable discrete logic gate firewall, optical data diode, powerful radio transmitters, direct conversion receivers.
 
