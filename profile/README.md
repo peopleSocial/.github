@@ -17,6 +17,19 @@ Internet users are by and large mature enough to create, consume, monetize, and 
 Yet the internet is structured in a way that is neither efficient, usable, secure, nor moderated.
 
 
+# Background
+
+For commercial purposes, the commercial internet has been resoundingly made good use of amateur open-source contributions, brought good jobs to out of work politicians, contributed to more select favorite charities, drawn consumers eyes to advertisements for the spending economy, created effectively the largest shopping malls in history, and best of given vendors a chance to put a price on security for enterprises - in sum greasing the unproductive gears with money.
+
+Meanwhile, the amateur purposes of amateur radio have been supplanted by centralized internet platforms.
+
+Peer discovery is the fundamental weakness of the internet - not an issue in physical space but discouraged in IPv4 and infeasible in IPv6. Decentralized storage tracking is correspondingly weak - yes BitTorrent exists but how long would it take to go through the peer discovery and connection process to load just one webpage at a time?
+
+Computers have become faster, and the physics of only electrons and photons being of any mechanical significancee remains. 
+
+Peer discovery and communicating who has what, quickly, are the necessary essence of free speech in this universe, always has been.
+
+
 # New Functionality
 
 Little to none, but efficient for complete workflows. Open-source basically does everything already - but in clunky pieces.
